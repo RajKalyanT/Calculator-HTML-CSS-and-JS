@@ -7,4 +7,4 @@ A simple calculator application that performs basic arithmetic operations like a
 <ul>-Clear button to reset the calculator for new calculations.</ul>
 
 ## Screenshot
-<ul><img url="preview/calculator.png"></ul>
+<ul><img src="preview/calculator.png"></ul>
